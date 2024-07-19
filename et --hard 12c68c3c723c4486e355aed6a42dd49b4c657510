@@ -1,0 +1,126 @@
+[33mcommit 50f674b0465aedd8f3e4c15eaa9279361adf0a40[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 12c68c3 9845f86
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Fri Jul 19 21:32:10 2024 +0545
+
+    Merge branch 'main' of https://github.com/siuupriyanshu/MERN-Blog
+
+[33mcommit 12c68c3c723c4486e355aed6a42dd49b4c657510[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Fri Jul 19 21:22:23 2024 +0545
+
+    header updated with user data
+
+[33mcommit b692a45f79f69acf132be1e675218a602e825559[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Fri Jul 19 18:46:24 2024 +0545
+
+    header updated with user data
+
+[33mcommit 9845f86bb6e16373c58e46965421a6333ae9f756[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Fri Jul 19 18:46:24 2024 +0545
+
+    OAuth funcanility added
+
+[33mcommit b45c8d2812ea92089b7c316a4ff6ca46f7b8ec12[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Fri Jul 19 09:20:15 2024 +0545
+
+    redux persist added
+
+[33mcommit 715299c96d257d9a8f1f5c612d86f9ca9950ee79[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Thu Jul 18 23:36:11 2024 +0545
+
+    redux toolkit added
+
+[33mcommit 316513e796498db12526be335c2deb13e721a181[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Thu Jul 18 10:56:16 2024 +0545
+
+    signin page funcunality added
+
+[33mcommit 5e46cde0075a09fc6442d47c367986197dd5c23c[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Wed Jul 17 23:45:14 2024 +0545
+
+    signin api route created
+
+[33mcommit edb4d4bd15e0f3485f4b00f8ed07118c321a8fba[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Wed Jul 17 22:21:13 2024 +0545
+
+    update footer
+
+[33mcommit ea8ddd8af65d9b58368cb117a19f48a1f304a4d5[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Wed Jul 17 22:19:59 2024 +0545
+
+    footer component created
+
+[33mcommit 1b3fbc68e1ab1f0cfa7f8c81ec3ea110427c5a78[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Wed Jul 17 20:46:05 2024 +0545
+
+    sign Up functionality added
+
+[33mcommit df58e1376f86ac7298b2c5354ceab06c6745ebdd[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Wed Jul 17 17:16:40 2024 +0545
+
+    sign up ui fixed
+
+[33mcommit 50d5625aeceb930a9fad0c5ce6cb5dcebce1f42c[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Wed Jul 17 16:59:27 2024 +0545
+
+    sign up page ui created
+
+[33mcommit 474c9565f12e09af9dea74416d4ac7cc6dac6b55[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Wed Jul 17 16:00:16 2024 +0545
+
+    middleware added to handle error
+
+[33mcommit 392af85894ce297f90ad40003578260b2685998f[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Wed Jul 17 15:14:18 2024 +0545
+
+    signup api route created
+
+[33mcommit 48b374f270ee7b43e6b2d8273efe834e8199ba05[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Wed Jul 17 00:08:17 2024 +0545
+
+    test api route created
+
+[33mcommit d7a2a0fd1c551218f8523c9d7bf6eb8e4c605913[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Tue Jul 16 23:40:26 2024 +0545
+
+    user model created
+
+[33mcommit d1d1c15456a7fdec81bc40c151e42acf6031bc0a[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Tue Jul 16 22:04:07 2024 +0545
+
+    database connected
+
+[33mcommit 7b6d07229adddc2bf1e9841d5b5661a7014e418c[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Tue Jul 16 21:33:09 2024 +0545
+
+    created server
+
+[33mcommit f0e3b556cbdc6e88caef076b81de89d68be42218[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Tue Jul 16 21:09:42 2024 +0545
+
+    Header section created
+
+[33mcommit a07d5087f5ef04988159f87285dfbb460bc6fcfc[m
+Author: Priyanshu Kumar Mandal <mandalpriyanshu22@gmail.com>
+Date:   Tue Jul 16 11:38:31 2024 +0545
+
+    created pages and routes
