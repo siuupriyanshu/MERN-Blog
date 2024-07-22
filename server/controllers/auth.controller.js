@@ -49,6 +49,7 @@ export const signin = async (req, res, next) => {
     if (!validPassword) {
       return next(errorHandler(400, "Invalid password"));
     }
+    // admin functionality added
     const token = jwt.sign(
       { id: validUser._id, isAdmin: validUser.isAdmin },
       process.env.JWT_SECRET
@@ -72,6 +73,7 @@ export const google = async(req, res, next) => {
   try{
     const user = await User.findOne({email});
     if(user){
+      // admin functionality added
       const token = jwt.sign(
         {
           id: user._id, isAdmin: user.isAdmin
@@ -96,6 +98,7 @@ export const google = async(req, res, next) => {
         profilePicture: googlePhotoUrl,
       });
       await newUser.save();
+      // admin functionality added
       const token = jwt.sign(
         {
           id: newUser._id, isAdmin: newUser.isAdmin
